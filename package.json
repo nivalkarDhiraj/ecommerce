@@ -1,0 +1,40 @@
+{
+  "name": "-ms_e-commerce_delphinus_tep_online_part-time_2021_1",
+  "version": "1.0.0",
+  "description": "## Learning Competencies",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/-MS_E-commerce_Delphinus_Tep_Online_Part-time_2021_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/-MS_E-commerce_Delphinus_Tep_Online_Part-time_2021_1/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/-MS_E-commerce_Delphinus_Tep_Online_Part-time_2021_1#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "instamojo-nodejs": "0.0.5",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.12",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7",
+    "redis": "^3.1.2",
+    "stripe": "^8.151.0",
+    "validator": "^13.6.0"
+  },
+  "keywords": [],
+  "engines": {
+    "node": "10.x"
+  }
+}
